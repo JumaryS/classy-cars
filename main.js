@@ -51,3 +51,10 @@ class Ferrari  extends Car{
   }
   
 }
+
+
+module.exports = {
+  Vehicle,
+  Car,
+  Ferrari
+}
