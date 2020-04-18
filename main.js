@@ -24,7 +24,7 @@ super(name, 4, maxSpeed)
   }
 drive (){
 
-  return "Vroom. "
+  
 }
 
 }
